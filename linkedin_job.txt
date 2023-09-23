@@ -1,0 +1,125 @@
+Drive innovation in the area of Urban Solutions and Sustainability, particularly in the domains of Sustainable HVACs, End-of-Life Management and Instrumented Living Space.
+Co-create with business units in relation to sustainability initiatives, contribute to long-term product portfolio of Bosch, perform customer interview, formulate problem statements and generate research proposal.
+Proactively contribute to long-term product portfolio of Bosch, perform customer interview, formulate problem statement, generate research proposal for internal innovation pitching.
+Hands-on work for AIoT applications, sensor networks, sensor technology, communication protocols, data analytics, machine learning, laboratory activities, design of experiment for proof of concept and develop prototypes.
+Build cooperation, assess opportunities, identify "Best-In-Class" within local institutions and universities for potential collaboration.
+Regular alignment with Strategic Research Portfolio Owner, quarterly review project update, stakeholder management, idea pitching via Bosch Innovation Framework.
+
+To be successful in this role, you must Msc or PhD degree in computer science, engineering, with thesis addressing the core and adjacent innovation in the 3 domains above will be an advantage.
+
+
+Min. 3 years' hand-on experience in any of the competencies: Coding (python is preferred), data analytics, AIoT systems, cloud computing, hybrid modeling, computer vision, deep learning, neural networks, video analytics, 3D image processing, natural language processing & sensor fusion
+Experience in performing at least 2 full-cycle AIoT research projects until prototypes, ideally with commercialization strategy, experience in applied IoT applications will be an advantage.
+Understanding about sensor technologies (gas, magnetic, Infrared, ultrasonic, optical), sensing mechanism, system design will be an advantage.
+High awareness about the latest technology trends especially in the sustainability domain, able to translate research effort into functional prototype, demonstrate to customers. Entrepreneur (start-up) and product industrialization experience will be highly appreciated.
+Passion for innovation, entrepreneurial spirit, excellent written and verbal communication skills.
+Able to work both independently and in a team, good working attitude, able to adapt in a dynamic environment.
+
+At Building Robotics Laboratory, we develop state-of-the-art sensing, learning and control systems for energy efficient, human-centered, comfortable and healthy environments. Building Robotics lab focuses on the development of new tools, evaluation protocols and technologies; the processes of design, management and procurement are also developed and examined through actual implementation of systems in real buildings on NUS campus and beyond.
+
+We are looking for a Building Performance Specialist to join our growing team. As a building performance specialist in Building Robotics lab, you will have the opportunity to work on different parts of developing advanced building facades and cooling systems and smart robots. The candidate should be able to extract relevant standards (ASHRAE/WELL) information to the product design and communicate them effectively with the engineering team. We are particularly seeking individuals who are familiar with or are interested to learn about smart building (systems automation and controls) and are able to undertake sophisticated system development works. If qualified for admission, the candidate may opt to pursue a higher degree on relevant subjects. The position offers excellent career opportunities for upcoming engineers in a very fast-growing sector of smart, efficient and human-centered buildings, an area of great importance to the society.
+
+ PhD in Building Science related fields, knowledge of Indoor Environmental Quality (IEQ) factors and relevant standards, familiarity with personalized environmental design and control.
+ Able to multi-task and work independently
+ Team player with good communication and interpersonal skills
+
+ Drive innovation in the area of Urban Solutions and Sustainability, particularly in Sustainable HVACs domain focusing on thermal system design, analytics and improvement.
+Co-create with business units in relation to sustainability initiatives, contribute to long-term product portfolio of Bosch, perform customer interview, formulate problem statements and generate innovation pitching and research proposals.
+Model based engineering for energy systems such as HVACs, Heat Pumps, fuel cell and subcomponents, relevant sensor technologies, data analytics, digitalization, laboratory activities, design of experiment for proof of concept and development of prototypes.
+Build cooperation, assess, identify “Best-In-Class” within local institutions and universities for potential research / innovation collaboration.
+Regular alignment with Strategic Research Portfolio Owner, quarterly review project update, stakeholder management, idea pitching via Bosch Innovation Framework.
+
+Min. Master or PhD degree in Engineering field, specialized in mechanical, electrical and energy background with thesis and projects addressing qualifications related to model-based energy system engineering, simulation, and research capabilities.
+Working experience is plus as R&D engineer or academic staff in thermal system related modelling, simulations, relevant software experience, data analytics, digitalization, machine learning and cycle/system control topics.
+Have experience & knowledge on benchmarking and assessment of energy systems, in-dept understanding new cycles and concepts with re-engineering capability.
+High awareness about latest developments in, Energy and Sustainability domain, able to translate research effort into functional prototype, demonstrate to customers.
+Entrepreneur (start-up) and product industrialization experience will be highly appreciated.
+Passion for innovation, entrepreneurial spirit, excellent written and verbal communication skills.
+Able to work both independently and in a team, good working attitude, able to adapt in a dynamic environment.
+
+Drive innovation in Urban Solutions and Sustainability area, particularly in Sustainable HVACs domain focusing on thermal systems/applications, IoT sensors, controls for buildings and e-mobility.
+Co-create with business units in relation to sustainability initiatives, contribute to long-term product portfolio of Bosch, perform customer interview, formulate problem statements, and generate innovation pitching and research proposals.
+Responsible for building / e-mobility IoT system design & development, connectivity & data architecture, AI/ML models and control strategy development.
+Responsible for testbed/laboratory activities, design of experiment and prototyping for idea validation.
+Build cooperation, assess opportunities, identify “Best-In-Class” within local institutions and universities for potential “outside-in” innovation.
+Regular alignment with Strategic Research Portfolio Owner, quarterly review project or milestone update, internal/external stakeholder management, idea pitching via Bosch Innovation Framework.
+
+Min. Master or PhD degree in engineering field, specialized in IoT systems, sensors, machine learning / AI applications, data driven analytics, embedded intelligence, hardware design capabilities (Arduino and/or Raspberry Pi).
+Programming language expertise in at least one of the following: MATLAB, Simulink, Python, R, JavaScript, SQL, with experience in developing ML/AI models (sklearn, pytorch, tensorflow)
+Min. 3 years’ working experience as R&D engineer or academic staff in IoT system design (both hardware and software), mainly took part in modelling, simulations, relevant software development, data analytics, digitalization, machine learning and system control topics.
+Experience with any cloud computing platform is preferred.
+High awareness of recent research and development methods about buildings and e-mobility domains, related to occupancy, user modeling, human factor and user interaction design, thermal comfort, energy management and able to translate these research methods into functional prototype, demonstrate to customers.
+Have experience & knowledge on benchmarking and assessment of IoT systems, concepts in detail from user experience to technical assessment layers such as communication protocols, sensors, data & IoT architecture and backend/cloud management.
+Entrepreneur (start-up) and product industrialization experience will be highly appreciated.
+Passion for innovation, entrepreneurial spirit, excellent written and verbal communication skills.
+Able to work both independently and in a team, good working attitude, able to adapt in a dynamic environment.
+
+
+TensorFlow, Machine Learning, Modeling, Protein Purification, JavaScript, Energy Management, Research and Development, PyTorch, Simulink, Python, Sensors, Data Analytics, Arduino, C++
+
+Drive innovation in the area of Urban Solutions and Sustainability, particularly in Sustainable HVACs domain focusing on thermal system design, analytics and improvement.
+Co-create with business units in relation to sustainability initiatives, contribute to long-term product portfolio of Bosch, perform customer interview, formulate problem statements and generate innovation pitching and research proposals.
+Model based engineering for energy systems such as HVACs, Heat Pumps, fuel cell and subcomponents, relevant sensor technologies, data analytics, digitalization, laboratory activities, design of experiment for proof of concept and development of prototypes.
+Build cooperation, assess, identify “Best-In-Class” within local institutions and universities for potential research / innovation collaboration.
+Regular alignment with Strategic Research Portfolio Owner, quarterly review project update, stakeholder management, idea pitching via Bosch Innovation Framework.
+
+
+Min. Master or PhD degree in Engineering field, specialized in mechanical, electrical and energy background with thesis and projects addressing qualifications related to model-based energy system engineering, simulation, and research capabilities.
+Working experience is plus as R&D engineer or academic staff in thermal system related modelling, simulations, relevant software experience, data analytics, digitalization, machine learning and cycle/system control topics.
+Have experience & knowledge on benchmarking and assessment of energy systems, in-dept understanding new cycles and concepts with re-engineering capability.
+High awareness about latest developments in, Energy and Sustainability domain, able to translate research effort into functional prototype, demonstrate to customers.
+Entrepreneur (start-up) and product industrialization experience will be highly appreciated.
+Passion for innovation, entrepreneurial spirit, excellent written and verbal communication skills.
+Able to work both independently and in a team, good working attitude, able to adapt in a dynamic environment.
+
+Machine Learning, Sustainability, Cell, Protein Purification, Fundraising, Industrialization, Thermal System Design, Reengineering, Electrical, Simulations, Pumps, Benchmarking, Data Analytics, Laboratory, C++
+
+A Research Assistant position is available in the Centre for Information Sciences and Systems, School of Electrical & Electronic Engineering, Nanyang Technological University, Singapore. We are seeking potential researchers in the area of energy modelling, especially those familiar with TRNSYS, Energy Plus, Design Buider, or IESVE, for AI Net-Zero Energy Building Project.
+
+
+The Research Assistant will be responsible for undertaking in-depth research in building energy modelling system to simulate HAVC system. They will be working closely with the team members on:
+
+
+Design and develop simulation model using TRNSYS, Energy Plus, Design Buider, or IESVE for HAVC system
+Investigate and analyze real dataset availability and lead dataset generation
+Demonstrate AI solutions on real world testbeds
+Publish high-quality research papers with research outcomes in top-tier international journals and conferences
+
+
+Degree in Electrical and Electronic Engineering, Computer Engineering or related field
+Experienced in building energy system models by professional software, e.g., TRNSYS, EnergyPlus, Design Buider, or IESVE
+
+
+Lead research reports, and consulting projects, from the idea to the presentation to clients and press, under the supervision of the senior leadership in the APAC team. 
+Keep abreast of developments in policy, markets, and technology, and then use this to develop and provide data-driven insights to clients on how hydrogen markets could develop.
+Represent the firm at external events as an expert in this rapidly evolving market, and develop our thought leadership, analysis, and subscription product offering.
+Play a critical role in product delivery and development, as well as client engagement –identifying client needs, and continuously enhancing the service we provide.
+Develop analysis into the energy transition for both public and private sector clients; and present these insights in client meetings and presentations.
+Work towards the development of fully integrated hydrogen analysis across the entire company. This means working with other teams and offices in Aurora as well as independently.
+The Associate will report to the Head of Research and work within Aurora's larger Research and Publications team.
+
+
+
+We will consider candidates who have between 3 – 4 years of experience at a major consultancy, energy company, financial services company, or other knowledge-focused firm or institution.
+First-class or high second-class university degree.
+Demonstrated success in taking responsibility for project and process management in team-oriented environments.
+Proven ability to interpret and derive insight from complex quantitative data and information.
+Ability to communicate clearly and co-operate effectively with both technically and non-technically minded people.
+Self-starting, entrepreneurial mindset, and desire to grow the business.
+A fast learner with Excel skills or competency or interest in common programming languages (e.g., python, MATLAB).
+
+
+Demonstrated success in client-facing positions.
+Knowledge of key financial metrics and economic principles (NPV, IRR, DCF).
+Competence in advanced data analytics (e.g. Python, R, Matlab, Advanced Excel).
+Previous experience of working on energy projects.
+Relevant Master's degree or PhD.
+Proficiency in languages other than English.
+
+
+The opportunity to substantially influence major decisions in the energy sector.
+Direct engagement with clients through Aurora conferences, workshops and webinars.
+The opportunity to grow into a publicly visible industry expert.
+A fun, informal and international work culture.
+A competitive salary package.
+Access to the Aurora Academy, our training programme offering a range of opportunities to develop your skills.
